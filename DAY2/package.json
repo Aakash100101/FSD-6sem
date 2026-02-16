@@ -1,0 +1,25 @@
+{
+  "name": "fsd6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aakash100101/FSD-6sem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aakash100101/FSD-6sem/issues"
+  },
+  "homepage": "https://github.com/Aakash100101/FSD-6sem#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
