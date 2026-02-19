@@ -1,4 +1,4 @@
-import { readFile,writeFile } from "./readANDWrite.js";
+import { readFile,writeFile } from "./readandwrite.js";
 const FILE = "/students.json";
 const updateData = async() => {
     const students = await readFile(FILE);
