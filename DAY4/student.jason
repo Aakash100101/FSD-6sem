@@ -1,0 +1,61 @@
+[{
+  "id": 1,
+  "first_name": "Ree",
+  "last_name": "Cambling",
+  "email": "rcambling0@senate.gov",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "first_name": "Filip",
+  "last_name": "Glavias",
+  "email": "fglavias1@ezinearticles.com",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "first_name": "Marcela",
+  "last_name": "Milby",
+  "email": "mmilby2@google.ca",
+  "gender": "Female"
+}, {
+  "id": 4,
+  "first_name": "Randolf",
+  "last_name": "Shear",
+  "email": "rshear3@biglobe.ne.jp",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "first_name": "Webster",
+  "last_name": "Grumble",
+  "email": "wgrumble4@google.co.jp",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "first_name": "Cordie",
+  "last_name": "Witchell",
+  "email": "cwitchell5@blog.com",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "first_name": "Inna",
+  "last_name": "Lorrain",
+  "email": "ilorrain6@springer.com",
+  "gender": "Female"
+}, {
+  "id": 8,
+  "first_name": "Donal",
+  "last_name": "Rix",
+  "email": "drix7@google.nl",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "first_name": "Jori",
+  "last_name": "Curle",
+  "email": "jcurle8@latimes.com",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "first_name": "Tuesday",
+  "last_name": "Cawdell",
+  "email": "tcawdell9@usda.gov",
+  "gender": "Female"
+}]
