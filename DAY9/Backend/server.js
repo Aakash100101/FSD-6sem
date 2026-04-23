@@ -13,7 +13,7 @@ const userRoutes = require("./routes/userRoutes");
 app.use("/api/users", userRoutes);
 
 // MongoDB connection
-mongoose.connect("mongodb://127.0.0.1:27017/crudApp")
+mongoose.connect("mongodb+srv://aakash:abes@crud.nq4q1ur.mongodb.net/?appName=CRUD")
   .then(() => console.log("MongoDB Connected"))
   .catch(err => console.log(err));
 
